@@ -4,7 +4,7 @@ let total = 0;
 do {
   input = prompt("Enter a number:");
   numbers.push(Number(input));
-  if (isNaN(input)) {
+  if  {
     alert("Было введено не число, попробуйте еще раз");
   }
 } while (input !== null);
